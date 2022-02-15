@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
 
+# 梯度下降的简单示例
 import math
 
 if __name__ == "__main__":
