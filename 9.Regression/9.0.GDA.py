@@ -3,6 +3,7 @@
 
 # 梯度下降的简单示例
 # 设置梯度变化，梯度是cur**2 - a，学习率是learning_rate
+# 为什么是cur**2 - a
 import math
 
 if __name__ == "__main__":
